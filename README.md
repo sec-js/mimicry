@@ -21,7 +21,7 @@
 ## 🏠 Overview
 
 <p><a href="./docs/mimicry.pdf">Presentation</a></p>
-<p><a href="https://vimeo.com/813408987">Vedio</a></p>
+<p><a href="https://vimeo.com/813408987">Video</a></p>
 
 ## 🔥 Demo
 
